@@ -5,7 +5,7 @@ from tensorflow.keras.models import load_model
 
 #### READ THE MODEL WEIGHTS
 def intializePredectionModel():
-    model = load_model(r"C:\Users\tiagu\Downloads\myModel.h5")
+    model = load_model("myModel.h5")
     return model 
     return False
 
