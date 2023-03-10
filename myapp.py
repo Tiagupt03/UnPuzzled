@@ -146,6 +146,6 @@ if uploaded_file is not None:
             st.image(inv_perspective)
         else:
             st.write("No Sudoku Found")
-        cv2.waitKey(0)
+        #cv2.waitKey(0)
         os.remove(uploaded_file.name) # Finally deleting it from root folder
         st.success('The Sudoku is solved!') # Success message
