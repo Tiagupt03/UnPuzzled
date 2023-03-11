@@ -56,4 +56,4 @@ The app can be a useful tool for anyone who enjoys solving Sudoku puzzles but ma
 
 ## Demo
 
-![Demo of the Web App](https://drive.google.com/file/d/1n2KF894HV_GBRK48IzbDs_onRFOEazp1/view?usp=sharing)
+[Demo of the Web App](https://drive.google.com/file/d/1n2KF894HV_GBRK48IzbDs_onRFOEazp1/view?usp=sharing)
